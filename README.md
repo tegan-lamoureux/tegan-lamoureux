@@ -19,7 +19,8 @@ Give me the mess and I'll sort it.
 ## Some Questions Github Proposed
 
 - 👯 I’m looking to collaborate on ...
-  - Nothing that builds and locks away capital. Hit me up for community driven or open source engineering efforts, especially anything supporting or uplifting marginalized people.
+  - Nothing that builds and locks away capital.
+  - Hit me up for community driven or open source engineering efforts, especially anything supporting or uplifting marginalized people, or furthering the right for people to maintain secure and private communications and devices.
 - 📫 How to reach me ...
   - [teeg.no/contact](https://www.teeg.no/contact.html)
 - ⚡ Fun fact ...

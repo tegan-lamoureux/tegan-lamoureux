@@ -14,20 +14,8 @@ Hi! I'm Tegan. A senior embedded engineer with a decade of experience, working b
 - SIMD / NEON optimization of signal processing routines on ARM processors
 - CI/CD meta-development efforts, hardware-in-the-loop, containerized development, deployment strategies
 
-## Some Questions Github Proposed
+## Et cetera
 
-- 👯 I’m looking to collaborate on ...
-  - Nothing that builds and locks away capital.
-  - Hit me up for community driven or open source engineering efforts, especially anything supporting or uplifting marginalized people, or furthering the right for people to maintain secure and private communications and devices.
-- 📫 How to reach me ...
-  - [teeg.no/contact](https://www.teeg.no/contact.html)
-- ⚡ Fun fact ...
-  - I love music, have been in several bands and performed around Norway. I play (too) many instruments.
-  - I adore the genuine sparkle in people's eyes when they talk passionately about Their Thing (doesn't matter what it is).
-  - The indie-web is still going strong. https://teeg.no
-- Human Languages
-  - [Fluent] - English (Native), Norwegian
-  - [Learning] - Spanish, Arabic (فصحى العصر), Japanese, Zulu
-- Technical Languages
-  - [Fluent] - C, C++ (11), Assembly (Arm), Python, Bash
-  - [Learning] - Rust, C++ (20/23)
+Hit me up for community driven or open source engineering efforts. Especially anything supporting or uplifting marginalized people, or furthering the ability for people to maintain secure and private communications and devices.
+
+Reach me: [teeg.no/contact](https://www.teeg.no/contact.html)

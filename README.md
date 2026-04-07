@@ -10,7 +10,7 @@ Give me the mess and I'll sort it.
 
 - Legacy / startup codebase wrangling & scale up. Clearing tech debt.
 - Bare metal & RTOS firmware on any microcontroller
-- Embedded linux systems architecture design (sysfs interface design, process management, inter-process communication strategies, concurrency solutions)
+- Embedded linux systems architecture design (all Yocto magic, sysfs interface design, process management, inter-process communication strategies, concurrency solutions)
 - Hardware specification (SOC/SOM/μC choice, sensors, layout considerations, board design), schematic and layout review and collaboration.
 - Board bringup, device drivers (linux or bare metal), sensors, cameras, projectors, anything to do with an image buffer
 - SIMD / NEON optimization of signal processing routines on ARM processors

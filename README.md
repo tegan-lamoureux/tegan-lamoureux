@@ -1,6 +1,4 @@
-$\color{red}{\textsf{Written by hand! Not an LLM.}}$ ;P
-
-## Intro 
+## Intro <sub><sub>(Hand-written, no LLMs)</sub></sub>
 
 Hi! I'm Tegan. A senior embedded engineer with a decade of experience, working broad-domain across the stack. Give me the mess and I'll sort it.
 

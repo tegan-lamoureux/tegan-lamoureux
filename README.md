@@ -9,7 +9,7 @@ Hi! I'm Tegan. A senior embedded engineer with a decade of experience, working b
 - Legacy / startup codebase wrangling & scale up. Clearing tech debt.
 - Bare metal & RTOS firmware on any microcontroller
 - Embedded linux systems architecture (all Yocto magic, sysfs interface design, process management, inter-process communication strategies, concurrency solutions)
-- Hardware specification (SOC/SOM/μC choice, sensors, layout considerations, board design), schematic and layout review and collaboration.
+- Hardware specification (SOC/SOM/μC choice, sensors, layout/board design), schematic and layout collaboration.
 - Board bringup, device drivers (linux or bare metal), sensors, cameras, projectors, anything to do with an image buffer
 - SIMD / NEON optimization of signal processing routines on ARM processors
 - CI/CD meta-development efforts, hardware-in-the-loop, containerized development, deployment strategies
